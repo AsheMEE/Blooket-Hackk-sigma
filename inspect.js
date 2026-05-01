@@ -1,5 +1,5 @@
 (async () => {
-  // Blooket Cheats - by AsheMEE
+  // Blooket Cheats sigma - by AsheMEE
   // Source: https://github.com/AsheMEE/CheatHUB  
   // HOW TO USE: Press F12 > Console tab > Paste this entire script > Enter
   //
@@ -22,7 +22,7 @@
   };
 
   console.log(
-    "%c Blooket Cheats %c\nBy AsheMEE on GitHub",
+    "%c Blooket Cheats sigma %c\nBy AsheMEE on GitHub",
     "color: #FFD700; font-size: 3rem",
     "color: #8000ff; font-size: 1rem"
   );
